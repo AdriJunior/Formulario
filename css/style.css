@@ -200,10 +200,11 @@ body {
 
 @media and (max-width: 1064px) {
     .container {
-        width: 90%; 
+        width: 90%;
         height: auto;
     }
-    .input-group{
+
+    .input-group {
         flex-direction: column;
         overflow-y: scroll;
         flex-wrap: nowrap;
