@@ -198,11 +198,12 @@ body {
     }
 }
 
-@media and (max-width: 1064px) {
-    .container {
+@media and (max-width: 1064px){
+    .container 
+    
         width: 90%;
         height: auto;
-    }
+    
 
     .input-group {
         flex-direction: column;
